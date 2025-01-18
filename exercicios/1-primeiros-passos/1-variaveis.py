@@ -5,6 +5,7 @@
 
 # Declare variáveis do tipo string
 
+
 # Declare variáveis de cada tipo numérico
 
 
